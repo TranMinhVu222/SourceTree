@@ -11,6 +11,6 @@ public class NewEditorScript : ScriptableObject
     public void StateB()
     {
         //Do Something_A
-        //Do Something_B
+        //Do Something_B_Member_2
     }
 }
