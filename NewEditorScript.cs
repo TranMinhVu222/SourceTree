@@ -5,7 +5,8 @@ public class NewEditorScript : ScriptableObject
 {
     public void StateA()
     {
-        //Do Something
+        //Change Something
+        //Made by Member 2
     }
     public void StateB()
     {
