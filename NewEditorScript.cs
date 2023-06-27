@@ -10,6 +10,6 @@ public class NewEditorScript : ScriptableObject
     }
     public void StateB()
     {
-        //Do Something
+        //Do Something_B
     }
 }
