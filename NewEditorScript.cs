@@ -7,6 +7,7 @@ public class NewEditorScript : ScriptableObject
     {
         //Change Something Member_2
         //Made by Member 2
+        //Made by Develop 2
     }
     public void StateB()
     {
