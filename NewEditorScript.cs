@@ -11,7 +11,7 @@ public class NewEditorScript : ScriptableObject
     }
     public void StateB()
     {
-        //Do Something_A_Member_2
+        //Do Something_A_Member_2_mem2Fix
         //Do Something_B_Member_1
     }
 }
